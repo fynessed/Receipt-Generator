@@ -1,4 +1,4 @@
-# Sylla Receipts V2
+# Sylla Receipts
 
 A receipt generator that has access to over 60+ email receipt templates. Join up, execute /register and it is ready to use.
 
